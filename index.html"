@@ -1,0 +1,67 @@
+<html>
+<head>
+  <link rel="stylesheet" href="./style.css" type="text/css">
+  <!-- write your hero's name here in the <title> element  -->
+  <title></title>
+</head>
+
+
+<body>
+
+  <div class="container">
+    <div class="jumbotron">
+      <div class="row">
+        <div class="col-xs-12">
+          <!-- Main Heading; Give the person's name; use <h1> -->
+          <h1>Sis Bates</h1>
+          <!-- Subheading; use <h2>  -->
+          <h2>Best Defensive Player</h2>
+          <div>
+            <!-- place and image here; use an image already on the internet -->
+            <img src="https://i.pinimg.com/originals/08/50/1d/08501d76910db015920dea97e3aa4d01.jpg" alt= Player> 
+            <!-- place a caption under your picture which explains the picture -->
+            <div> Bates is the first Husky ever to win multiple Defensive Player of the Year awards from the Pac-12 and just the third, alongside Kristen Rivera and Danielle Lawrie, to win multiple Pac-12 Player of the Year awards of any kind.     </div>
+          </div>
+          <div>
+            <!-- heading; use <h3>  -->
+            <h3>why is she so good? </h3>
+            <!-- write a paragraph explaining why your person is so great  -->
+            <p>She’s garnered national media attention for her bubbly personality, competitiveness and talent.“Softball has always been my happy place so it is pretty easy to have a good time and smile when you are having so much fun with people you love,” Sis Bates said.
+              “I wish there was a meter you could measure competitiveness,” John Bates said. “She’d be off the charts. Winning means everything to her. She’d rather win instead of going 4-for-4. A bunch of their girls are wired that way.”
+              Former coaches Donnie Donaldson and Mike Baisdon are not surprised to see Bates excel at such a high level.
+            </p>
+          </div>
+
+          <div> 
+
+            <!-- Timeline heading; use <h3>  -->
+            <h3>Her career</h3>
+            <ul> 
+              <li> Was discovered 18U Premier Girls Fastpitch 2016</li>
+              <li> Became a Washington husky in 2017 </li> 
+              <li> Selected to the USA Women's National in 2018</li> 
+              <li>One of seven unanimous First Team All-Americans 2019 </li> 
+              <!-- create a timeline using an unordered list>
+
+          <blockquote>
+            <!-- use the <p> to display a famous quote from your hero -->
+              <p> The big thing is taking everything one pitch at a time and not thinking one game is bigger than another, just having the same competitive nature in every game (we) play.” - Sis Bates</p>
+              <!-- don't forget the quoter's name here -->
+              <footer><cite>&nbsp;&nbsp;&nbsp;        </cite></footer>
+              </blockquote>
+            <!-- using the <h3> and the <a>, invite the reader to visit a wiki page concerning your hero  -->
+            <h3> </h3>
+            <a href="https://gohuskies.com/roster.aspx?rp_id=3601">more about Sis Bates</a>
+          </div  class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+        </div>
+      </div>
+    </div>
+    <footer>
+      <hr>
+      <!--  use the <hr> to create a horizontal line separating the footer section 
+    <!--  using the <p>, take ownership of your page  -->
+      <p> By: Kaesen Olson      </p>
+    </footer>
+  </div>
+</body>
+</html>
