@@ -60,7 +60,7 @@
       <hr>
       <!--  use the <hr> to create a horizontal line separating the footer section 
     <!--  using the <p>, take ownership of your page  -->
-      <p> By: Kaesen Olson      </p>
+      <p> By: Kaesen Olson     </p>
     </footer>
   </div>
 </body>
